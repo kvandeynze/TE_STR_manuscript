@@ -5,7 +5,6 @@
 # Considers LINE, LTR, SINE, and SVA repeat families from RepeatMasker within 25bp of each STR
 # Handles overlaps intelligently by classifying relative position
 
-# THIS IS THE SCRIPT I USED TO GENERATE MY FINAL MEI LABELS FOR MY THESIS 
 
 STRS=../QC_scripts/final_updated_labels.bed
 
