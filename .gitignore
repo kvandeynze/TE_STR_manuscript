@@ -1,2 +1,9 @@
 final_labels_manuscript.tsv
 final_labels_manuscript.tsv.gz
+__pycache__/
+*.pyc
+*.tsv
+*.tsv.gz
+*.csv
+*.bed
+!figure_notebooks/outliers.bed
